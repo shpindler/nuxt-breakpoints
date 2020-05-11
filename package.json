@@ -1,0 +1,15 @@
+{
+  "name": "@shpindler/nuxt-breakpoints",
+  "version": "1.0.0",
+  "description": "Nuxt-модуль, делающий инъекцию в прототип Vue брейкпоинтов.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Nuxt",
+    "breakpoints"
+  ],
+  "author": "Alexander Shpindler",
+  "license": "ISC"
+}
