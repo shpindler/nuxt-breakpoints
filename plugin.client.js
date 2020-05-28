@@ -81,11 +81,7 @@ class BreakpointStore {
 const DevicePlugin = {
   Store: BreakpointStore,
   install(Vue, options) {
-    Vue.mixin({
-      beforeCreate() {
-        this.$bp = options.store.VM
-      },
-    })
+    Vue.$bp = options.store.VM
   },
 }
 

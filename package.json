@@ -1,6 +1,6 @@
 {
   "name": "@shpindler/nuxt-breakpoints",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nuxt-модуль, делающий инъекцию в прототип Vue брейкпоинтов.",
   "main": "index.js",
   "scripts": {
